@@ -1,0 +1,7 @@
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/az204-Deploy-Demo
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/appsettings.json
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/az204-Deploy-Demo.dll
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/az204-Deploy-Demo.deps.json
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/az204-Deploy-Demo.runtimeconfig.json
+/Users/robindas/Library/CloudStorage/OneDrive-Personal/Dev/_AZ204_Exam/LP-DeployConfig/az204-deploy-demo/bin/Release/net8.0/publish/az204-Deploy-Demo.pdb
